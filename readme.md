@@ -30,7 +30,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Fred**
+* **Fred** [FredCar](https://github.com/FredCar)
 * **Cédric Dromzée** [Dromzee](https://github.com/Dromzee)
 
 ## License
