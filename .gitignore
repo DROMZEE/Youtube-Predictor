@@ -1,5 +1,7 @@
+.env
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+.vscode
 #data/
 # Created by https://www.gitignore.io/api/vim,linux,macos,windows,libreoffice,visualstudio
 # Edit at https://www.gitignore.io/?templates=vim,linux,macos,windows,libreoffice,visualstudio
