@@ -27,11 +27,6 @@ Nous avons sélectionné un dataset sur Youtube disponible sur le site Kaggle
     - [le rapport](rapport.ipynb)
     - [Dashboard]()
     - [le code souce](https://github.com/DROMZEE/Youtube-Predictor)
-5. Divers
-    - [l'équipe]()
-    - [Built With]()
-    - [License]()
-
 
 
 ## L'équipe
