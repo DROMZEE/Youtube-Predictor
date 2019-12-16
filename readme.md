@@ -1,37 +1,52 @@
-# Youtube Predictor
+# P2 : Projet Youtube Predictor
 
-project Simplon Data IA Biarritz
+Ce deuxième projet (P2) est donnée dans le cadre de la formation "Développeur.se Data IA" de l'école Simplon de Biarritz
 
-## Getting Started
+Il nous est demandé de :
+* Trouver et importer un jeu de données
+* Analyser et traiter les données
+* Réaliser des graphiques pertinent
+* Créer une présentation reposant sur un dasboard et un support papier
 
-In progress
+Nous avons sélectionné un dataset sur Youtube disponible sur le site Kaggle
+* https://www.kaggle.com/datasnaek/youtube-new/
 
-### Prerequisites
+## Sommaire
 
-Download dataset
+1. Objectifs
+    - [Le sujet P2](P2_sujet.ipynb)
+2. Le dataset
+    - [Pretraitements]
+    - [fusion](./fusion/fusion.ipynb)
+    - [Import de données via l'API](./api/api2.ipynb)
+3. Analyse
+    - [Visualisation](./visu/visu.ipynb)
+    - [les catégories](./visu/cat.ipynb)
+    - [Analyse_textuelle](./words/Analyse_textuelle.ipynb)
+4. Compte rendu
+    - [le rapport](rapport.ipynb)
+    - [Dashboard]()
+    - [le code souce](https://github.com/DROMZEE/Youtube-Predictor)
+5. Divers
+    - [l'équipe]()
+    - [Built With]()
+    - [License]()
 
-### Installing
 
 
-
-
-
-## Built With
-
-* [Python](https://www.python.org/) - Programming language
-* [Jupyter](https://jupyter.org/) - Jupyter Notebook
-* [matplotlib](https://matplotlib.org/) - Python 2D plotting library
-* [gitignore](https://www.gitignore.io/) - Create useful .gitignore files for your project
-
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
+## L'équipe
 
 * **Fred** [FredCar](https://github.com/FredCar)
 * **Cédric Dromzée** [Dromzee](https://github.com/Dromzee)
+
+## Built With
+
+* [Python 3](https://www.python.org/) - Programming language
+* [matplotlib](https://matplotlib.org/) - Python 2D plotting library
+* [Seaborn](https://seaborn.pydata.org/) - Statistical data visualization
+* [Jupyter](https://jupyter.org/) - Jupyter Notebook
+* [Visual studio Code](https://code.visualstudio.com/) - EDI
+* [gitignore](https://www.gitignore.io/) - Create useful .gitignore files for your project
 
 ## License
 
