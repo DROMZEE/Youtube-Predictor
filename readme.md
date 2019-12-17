@@ -16,9 +16,11 @@ Nous avons sélectionné un dataset sur Youtube disponible sur le site Kaggle
 1. Objectifs
     - [Le sujet P2](P2_sujet.ipynb)
 2. Le dataset
+    - [exploration initiale d'un jeu de données](exploration.ipynb)
+    - prétraitement et le nettoyage
     - [Pretraitements]
-    - [fusion](./fusion/fusion.ipynb)
-    - [Import de données via l'API](./api/api2.ipynb)
+    - agregation [fusion](./fusion/fusion.ipynb)
+    - enrichissement [Import de données via l'API](./api/api2.ipynb)
 3. Analyse
     - [Visualisation](./visu/visu.ipynb)
     - [les catégories](./visu/cat.ipynb)
