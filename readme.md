@@ -1,29 +1,30 @@
 # P2 : Projet Youtube Predictor
 
-Ce deuxième projet (P2) est donnée dans le cadre de la formation "Développeur.se Data IA" de l'école Simplon de Biarritz
+Ce deuxième projet (P2) est donné dans le cadre de la formation "Développeur.se Data IA" de l'école Simplon de Biarritz
 
 Il nous est demandé de :
 * Trouver et importer un jeu de données
 * Analyser et traiter les données
-* Réaliser des graphiques pertinent
-* Créer une présentation reposant sur un dasboard et un support papier
+* Réaliser des graphiques pertinents
+* Créer une présentation reposant sur un Dasboard et un support papier
 
-Nous avons sélectionné un dataset sur Youtube disponible sur le site Kaggle
+Nous avons sélectionné un jeu de données (dataset) à propos des vidéos publiées sur la plateforme YouTube.
+Le dataset est disponible en téléchargement sur le site Kaggle
 * https://www.kaggle.com/datasnaek/youtube-new/
 
 ## Sommaire
 
 1. Objectifs
     - [Le sujet P2](P2_sujet.ipynb)
-2. Le dataset
-    - enrichissement [Import de données via l'API](./api/api2.ipynb)
+2. Le jeu de données
+    - [Enrichissement (Import de données via l'API)](./api/api2.ipynb)
     - [Visualisation](./visu/visu.ipynb)
-    - [les catégories](./visu/cat.ipynb)
-    - [Analyse_textuelle](./words/Analyse_textuelle.ipynb)
+    - [Les catégories](./visu/cat.ipynb)
+    - [Analyse textuelle](./words/Analyse_textuelle.ipynb)
 3. Compte rendu
-    - [le rapport](rapport.ipynb)
+    - [Le rapport](rapport.ipynb)
     - [Dashboard](./doc/YouTube_Predictor Dashboard.pptx)
-    - [le code souce](https://github.com/DROMZEE/Youtube-Predictor)
+    - [Le code source](https://github.com/DROMZEE/Youtube-Predictor)
 
 
 ## L'équipe
