@@ -16,18 +16,13 @@ Nous avons sélectionné un dataset sur Youtube disponible sur le site Kaggle
 1. Objectifs
     - [Le sujet P2](P2_sujet.ipynb)
 2. Le dataset
-    - [exploration initiale d'un jeu de données](exploration.ipynb)
-    - prétraitement et le nettoyage
-    - [Pretraitements]
-    - agregation [fusion](./fusion/fusion.ipynb)
     - enrichissement [Import de données via l'API](./api/api2.ipynb)
-3. Analyse
     - [Visualisation](./visu/visu.ipynb)
     - [les catégories](./visu/cat.ipynb)
     - [Analyse_textuelle](./words/Analyse_textuelle.ipynb)
-4. Compte rendu
+3. Compte rendu
     - [le rapport](rapport.ipynb)
-    - [Dashboard]()
+    - [Dashboard](./doc/YouTube_Predictor Dashboard.pptx)
     - [le code souce](https://github.com/DROMZEE/Youtube-Predictor)
 
 
